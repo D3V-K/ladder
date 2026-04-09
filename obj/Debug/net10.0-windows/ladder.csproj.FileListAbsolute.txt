@@ -1,0 +1,14 @@
+C:\Users\kzyn2\ladder\obj\Debug\net10.0-windows\ladder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzyn2\ladder\obj\Debug\net10.0-windows\ladder.AssemblyInfoInputs.cache
+C:\Users\kzyn2\ladder\obj\Debug\net10.0-windows\ladder.AssemblyInfo.cs
+C:\Users\kzyn2\ladder\obj\Debug\net10.0-windows\ladder.csproj.CoreCompileInputs.cache
+C:\Users\kzyn2\ladder\bin\Debug\net10.0-windows\ladder.exe
+C:\Users\kzyn2\ladder\bin\Debug\net10.0-windows\ladder.deps.json
+C:\Users\kzyn2\ladder\bin\Debug\net10.0-windows\ladder.runtimeconfig.json
+C:\Users\kzyn2\ladder\bin\Debug\net10.0-windows\ladder.dll
+C:\Users\kzyn2\ladder\bin\Debug\net10.0-windows\ladder.pdb
+C:\Users\kzyn2\ladder\obj\Debug\net10.0-windows\ladder.dll
+C:\Users\kzyn2\ladder\obj\Debug\net10.0-windows\refint\ladder.dll
+C:\Users\kzyn2\ladder\obj\Debug\net10.0-windows\ladder.pdb
+C:\Users\kzyn2\ladder\obj\Debug\net10.0-windows\ladder.genruntimeconfig.cache
+C:\Users\kzyn2\ladder\obj\Debug\net10.0-windows\ref\ladder.dll
